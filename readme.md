@@ -53,6 +53,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Introduction to programming contests (2012)](http://web.stanford.edu/class/cs97si/) 🆓
 - [MIT advanced data structures (2014)](http://courses.csail.mit.edu/6.851/spring14/index.html) 🆓
 - [MIT introduction to algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/) 🆓
+- [Algorithm Analysis Deep Dive](https://github.com/StructuredCS/algorithm-analysis-deep-dive) 🆓
 
 ## Artificial Intelligence
 
